@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GestionSiembra", "ControlSiembraManual\GestionSiembra.csproj", "{35974F54-FF14-47D7-B7B0-DB6A0ACFDE48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35974F54-FF14-47D7-B7B0-DB6A0ACFDE48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35974F54-FF14-47D7-B7B0-DB6A0ACFDE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35974F54-FF14-47D7-B7B0-DB6A0ACFDE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35974F54-FF14-47D7-B7B0-DB6A0ACFDE48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6033FCB6-E688-4412-8701-92CC331A68E2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,139 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ControlSiembraManual
+build_property.RootNamespace = ControlSiembraManual
+build_property.ProjectDir = C:\Users\juane\OneDrive\Escritorio\ControlSiembraManual - copia\ControlSiembraManual\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\juane\OneDrive\Escritorio\ControlSiembraManual - copia\ControlSiembraManual
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/Departamento/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/Departamento/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/Departamento/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/Departamento/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/Departamento/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/Empleado/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/Empleado/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/Empleado/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/Empleado/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/Empleado/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/Nomina/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9taW5hXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/Nomina/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9taW5hXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/Nomina/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9taW5hXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/Nomina/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9taW5hXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/Nomina/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9taW5hXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/Terreno/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVycmVub1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/Terreno/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVycmVub1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/Terreno/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVycmVub1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/Terreno/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVycmVub1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/Terreno/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVycmVub1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/Usuarios/Registro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcUmVnaXN0cm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/juane/OneDrive/Escritorio/ControlSiembraManual - copia/ControlSiembraManual/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-j9v4h8fuqz

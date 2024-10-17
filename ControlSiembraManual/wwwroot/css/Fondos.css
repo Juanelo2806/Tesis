@@ -1,0 +1,119 @@
+﻿
+body {
+    background-image: url('/Imagenes/Fondo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+
+.container-form {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    margin-top: 50px;
+    max-width: 800px; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    background-color: rgba(255, 255, 255, 0.8);
+    color: black;
+    width: 100%; 
+}
+
+a {
+    color: #FFD700;
+}
+
+.card-body {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    margin-top: 50px;
+    justify-content
+}
+
+
+.card-header {
+    background-color: rgba(0, 0, 0, 0.7); 
+    color: white; 
+    padding: 20px; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
+}
+
+.texto-gris-oscuro {
+    color: #505050; /* Tono entre negro y gris */
+}
+
+
+
+
+
+
+
+
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.form-container {
+    background: linear-gradient(135deg, #000000, #434343);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: #ffffff;
+}
+
+    .form-container h4 {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+.form-group label {
+    font-weight: bold;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 5px;
+}
+
+    .form-group input[type="submit"] {
+        background-color: #007bff;
+        color: #ffffff;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .form-group input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+
